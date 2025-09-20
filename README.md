@@ -1,1 +1,2 @@
 # Machine Translation task on medical domain
+In this repository, we aim to develop an AI model whose ability to translate medical text data from English into Vietnamese. From here, we choose three different architectures, conducting in two ways: Training from scratch and using fine-tuned pretrained model, then we could attain three different kinds of AI model for the machine translation task on medical domain.
